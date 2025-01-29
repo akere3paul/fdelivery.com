@@ -1,7 +1,7 @@
 /* ========== Get Testimonials =========== */
 const getTestimonials = async () => {
     try {
-      const results = await fetch('.css/data/testimonials.json');
+      const results = await fetch('css/data/testimonials.json');
       const data = await results.json();
       const testimonials = data.testimonials;
       return testimonials;
