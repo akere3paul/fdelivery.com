@@ -3,112 +3,112 @@
     {
       "id": 1,
       "title": "Crispy Fried Chicken",
-      "price": "13.00",
+      "price": "2,500.00",
       "url": "./images/meat-2.svg",
       "category": "Fast Food"
     },
     {
       "id": 2,
       "title": "Burger Patty Recipe",
-      "price": "15.00",
+      "price": "3,500.00",
       "url": "./images/burger.svg",
       "category": "Fast Food"
     },
     {
       "id": 3,
       "title": "Must-Try Dishes ",
-      "price": "12.00",
+      "price": "2,000.00",
       "url": "./images/dish-1.svg",
       "category": "Rice Menu"
     },
     {
       "id": 4,
       "title": "Tasty French Fries",
-      "price": "17.00",
+      "price": "4,000.00",
       "url": "./images/french-fries.svg",
       "category": "Fast Food"
     },
     {
       "id": 5,
       "title": "Toasted Bread",
-      "price": "19.00",
+      "price": "4,200.00",
       "url": "./images/toastbread.png",
       "category": "Desserts"
     },
     {
       "id": 6,
       "title": "Biscuit",
-      "price": "20.00",
+      "price": "1,800.00",
       "url": "./images/biscuit.png",
       "category": "Fast Food"
     },
     {
       "id": 7,
       "title": "Ice Cream",
-      "price": "5.00",
+      "price": "700.00",
       "url": "./images/ice-cream.png",
       "category": "Desserts"
     },
     {
       "id": 8,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "1,200.00",
       "url": "./images/dish-1.png",
       "category": "Desserts"
     },
     {
       "id": 9,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "1,800.00",
       "url": "./images/dish-2.png",
       "category": "Rice Menu"
     },
     {
       "id": 10,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "1,500.00",
       "url": "./images/dish-3.png",
       "category": "Desserts"
     },
     {
       "id": 11,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "1,300.00",
       "url": "./images/dish-4.png",
       "category": "Pizza"
     },
     {
       "id": 12,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "2,800.00",
       "url": "./images/dish-5.png",
       "category": "Desserts"
     },
     {
       "id": 13,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "2,100.00",
       "url": "./images/dish-6.png",
       "category": "Coffee"
     },
     {
       "id": 14,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "2,900.00",
       "url": "./images/dish-7.png",
       "category": "Coffee"
     },
     {
       "id": 15,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "3,000.00",
       "url": "./images/dish-8.png",
       "category": "Pizza"
     },
     {
       "id": 16,
       "title": "Ice Cream",
-      "price": "12.00",
+      "price": "3,300.00",
       "url": "./images/dish-9.png",
       "category": "Desserts"
     }
