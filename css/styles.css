@@ -100,7 +100,6 @@ img {
 
 .navbar {
   padding: 2rem 0;
-position: fixed;
 
   .row {
     justify-content: space-between;
